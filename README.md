@@ -2,7 +2,7 @@
 
 # Online Book Store Analysis | SQL Data Analytics Project
 
-## One-Line Summary
+## Summary
 
 A data analytics project that analyzes sales performance, customer behavior, inventory trends, and business insights for an online bookstore using MySQL and SQL queries.
 

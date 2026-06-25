@@ -1,5 +1,3 @@
-# Online-Book-Sales--Analysis-SQL
-
 # Online Book Store Analysis | SQL Data Analytics Project
 
 ## Summary

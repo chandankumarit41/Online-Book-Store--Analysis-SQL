@@ -212,22 +212,6 @@ The project strengthens practical skills in:
 
 ---
 
-# Project Structure
-
-```bash
-Online-BookStore-Analysis/
-│
-├── Books.csv
-├── Customers.csv
-├── Orders.csv
-├── SQL_Queries.sql
-├── README.md
-│
-└── Database_Schema.sql
-```
-
----
-
 # Author
 
 **Chandan Kumar**
@@ -461,21 +445,6 @@ The project strengthens practical skills in:
 
 ---
 
-# Project Structure
-
-```bash
-Online-BookStore-Analysis/
-│
-├── Books.csv
-├── Customers.csv
-├── Orders.csv
-├── SQL_Queries.sql
-├── README.md
-│
-└── Database_Schema.sql
-```
-
----
 
 # Author
 
